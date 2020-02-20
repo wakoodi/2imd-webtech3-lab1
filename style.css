@@ -1,0 +1,19 @@
+body{background-color: #000000;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+}
+
+h1{
+    font-size: 1.5rem;
+    font-style: oblique;
+}
+
+#home #feat{
+    text-decoration: none;
+    text-decoration-style: none;
+    font-size:1.25rem;
+}
+
+div{
+    font-size: 1rem;
+}
